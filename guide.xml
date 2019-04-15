@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190415000000 +0100" stop="20190415235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  </programme>
+  <programme start="20190415000000 -0300" stop="20190415000500 -0300" channel="Globo">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+    <desc lang="pt">O que foi destaque ao longo do dia e o que será manchete amanhã(n)</desc>
+    <credits>
+      <actor>Erick Bang</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415000500 -0300" stop="20190415020000 -0300" channel="Globo">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Tadeu Schmidt e Poliana Abritta(n)</desc>
+    <credits>
+      <actor>Poliana Abritta</actor>
+      <actor>Tadeu Schmidt</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415020000 -0300" stop="20190415020500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415020500 -0300" stop="20190415023000 -0300" channel="Globo">
+    <title lang="pt">Fernando Gabeira</title>
+    <desc lang="pt">Um mosaico que reflete a imagem do Brasil. Fernando Gabeira vai a lugares diferentes e trata de temas singelos ou espinhosos(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415023000 -0300" stop="20190415030500 -0300" channel="Globo">
+    <title lang="pt">GloboNews Especial</title>
+    <desc lang="pt">Um tema diferente a cada semana, mas sempre a certeza de uma grande reportagem. Opiniões diferentes sobre questões polêmicas da sociedade ou mesmo detalhes pouco conhecidos de acontecimentos que marcaram a história(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415030500 -0300" stop="20190415033000 -0300" channel="Globo">
+    <title lang="pt">Cidades e Soluções</title>
+    <desc lang="pt">Iniciativas bem sucedidas no Brasil e no mundo que promovem a qualidade de vida e o uso inteligente dos recursos naturais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415033000 -0300" stop="20190415040000 -0300" channel="Globo">
+    <title lang="pt">Sem Fronteiras</title>
+    <desc lang="pt">O Sem Fronteiras combina reportagem e análise para mostrar o impacto dos principais assuntos internacionais na vida das pessoas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415040000 -0300" stop="20190415040500 -0300" channel="Globo">
+    <title lang="pt">Boletim de Notícias - Ao Vivo</title>
+    <desc lang="pt">Em cinco minutos, a GloboNews apresenta um panorama dos principais acontecimentos no Brasil e no mundo. Nos boletins, notícias que permitem ao assinante estar bem informado durante o final de semana(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415040500 -0300" stop="20190415043000 -0300" channel="Globo">
+    <title lang="pt">Fatos e Versões</title>
+    <desc lang="pt">Cristiana Lôbo recebe, no estúdio, jornalistas renomados de jornais e revistas para detalhar os principais temas da semana em Brasília, revelando bastidores na política, na economia e no Judiciário(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415043000 -0300" stop="20190415053000 -0300" channel="Globo">
+    <title lang="pt">Manhattan Connection</title>
+    <desc lang="pt">Informação diferenciada sobre os principais assuntos da semana, fora do óbvio e sempre com uma dose de irreverência e bom humor(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415053000 -0300" stop="20190415060000 -0300" channel="Globo">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Apresentado ao vivo do RJ, SP e Brasilia, NY e Washington. Comentaristas e correspondentes na América do Sul, Europa e Oriente Médio analisam as notícias(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415060000 -0300" stop="20190415090000 -0300" channel="Globo">
+    <title lang="pt">Globonews Em Ponto - Ao Vivo</title>
+    <desc lang="pt">Notícia e análise de alta qualidade, no início da manhã. Um telejornal que prepara o assinante para começar o dia e tomar as decisões acertadas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415090000 -0300" stop="20190415100000 -0300" channel="Globo">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415100000 -0300" stop="20190415130000 -0300" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <desc lang="pt">Notícias da manhã, debates interativos, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415130000 -0300" stop="20190415160000 -0300" channel="Globo">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+    <desc lang="pt">Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415160000 -0300" stop="20190415180000 -0300" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+    <desc lang="pt">Direto do Estúdio da GloboNews, em São Paulo, o Edição das 16 horas traz as principais notícias da tarde e a repercussão no Brasil e no mundo de todos os assuntos do dia(n)</desc>
+    <credits>
+      <actor>Christiane Pelajo</actor>
+    </credits>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415180000 -0300" stop="20190415200000 -0300" channel="Globo">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415200000 -0300" stop="20190415213000 -0300" channel="Globo">
+    <title lang="pt">GloboNews em Pauta - Vivo</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415213000 -0300" stop="20190415220000 -0300" channel="Globo">
+    <title lang="pt">Cidades e Soluções</title>
+    <desc lang="pt">Iniciativas bem sucedidas no Brasil e no mundo que promovem a qualidade de vida e o uso inteligente dos recursos naturais(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415220000 -0300" stop="20190415230000 -0300" channel="Globo">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+    <desc lang="pt">Apresentado ao vivo do RJ, SP e Brasilia, NY e Washington. Comentaristas e correspondentes na América do Sul, Europa e Oriente Médio analisam as notícias(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415230000 -0300" stop="20190415233000 -0300" channel="Globo">
+    <title lang="pt">Roberto D'avila</title>
+    <desc lang="pt">Entrevistas com personagens da política, da economia e da cultura nacional. Também traz convidados internacionais de destaque em diversas áreas(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190415233000 -0300" stop="20190416000000 -0300" channel="Globo">
+    <title lang="pt">Mundo S/A</title>
+    <desc lang="pt">Tendências de mercado, startups, grandes marcas, iniciativas tradicionais e inovadoras, soluções inesperadas, ousadias de empresários que estão sempre à frente(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
